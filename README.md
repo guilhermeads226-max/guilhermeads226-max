@@ -23,7 +23,7 @@ Estou em busca de crescer na área de tecnologia e conquistar minha primeira opo
 ## 📂 Projetos
 Aqui você pode encontrar meus projetos acadêmicos e pessoais conforme vou evoluindo na programação.
 
-###🧮 Calculadora em JavaScript
+### 🧮 Calculadora em JavaScript
  https://guilhermeads226-max.github.io/calculadora-javascript/
 ---
 
